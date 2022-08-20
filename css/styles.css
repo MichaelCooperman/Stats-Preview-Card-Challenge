@@ -1,0 +1,89 @@
+body {
+  background-color: #090B1A;
+  color: White;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 300px;
+}
+
+img {
+  height: 100%;
+  width: 47%;
+  display: block;
+  float: right;
+  border-top-right-radius: 2%;
+  border-bottom-right-radius: 2%;
+  background-color: #aa5cdb;
+}
+
+h1 {
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+h2 {
+  margin-bottom: 0;
+  color: White;
+}
+
+p {
+  color: #acadac;
+}
+
+.main-box {
+  background-color: #1B1938;
+  width: 900px;
+  height: 350px;
+  border-radius: 10px;
+}
+
+.insights {
+  color: purple;
+}
+
+.attribution {
+  margin-top: 50px;
+}
+
+.text {
+  height: 300px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 40px;
+}
+
+.data {
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+  margin-top: 30px;
+}
+
+.companies {
+  margin-right: 80px;
+  color: grey;
+}
+
+.templates {
+  margin-right: 80px;
+  color: grey;
+}
+
+.queries {
+  color: grey;
+}
+
+.picture {
+  background-color: #aa5cdb;
+}
